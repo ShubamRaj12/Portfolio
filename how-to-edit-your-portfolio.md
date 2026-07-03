@@ -1,4 +1,4 @@
-# How to Edit Your Portfolio
+# How to Edit MY Portfolio
 
 my portfolio is one file, `index.html`. It's plain text underneath — no special software required to edit it, and no build step. Change the text, save, refresh my browser, done.
 
