@@ -1,8 +1,8 @@
 # How to Edit Your Portfolio
 
-Your portfolio is one file, `index.html`. It's plain text underneath — no special software required to edit it, and no build step. Change the text, save, refresh your browser, done.
+my portfolio is one file, `index.html`. It's plain text underneath — no special software required to edit it, and no build step. Change the text, save, refresh my browser, done.
 
-## What you need
+## What I need
 
 - **A text editor.** [VS Code](https://code.visualstudio.com) (free) is the easiest — it color-codes the HTML so it's much harder to break something by accident. Notepad (Windows) or TextEdit (Mac, in plain-text mode) also work in a pinch.
 - **A web browser** to preview — just double-click `index.html` to open it.
@@ -63,7 +63,7 @@ Change `href="food_dashboard.html"` to whatever the new file is named (it must s
 
 ---
 
-## Editing your skills list
+## Editing MY skills list
 
 Search for `skill-label`. Each group looks like this:
 
@@ -117,6 +117,3 @@ Change any hex code here and it updates everywhere that color is used on the pag
 - **Save a backup copy before a big edit.** Duplicate `index.html` and rename the copy `index_backup.html` first, so you can always revert.
 - If the page looks visibly broken after an edit (text in the wrong place, missing sections), that almost always means a tag got deleted or left unclosed — undo (Ctrl+Z) in your editor and try again more surgically.
 
-## When to come back to me
-
-Text tweaks, new description-only project cards, color changes, and contact info are all safe to do yourself with the steps above. Come back to me for anything that needs actual new code — a new **live** interactive dashboard like the HIV or Food Insecurity ones, restructuring the layout, or if an edit breaks something and you can't spot why.
